@@ -1,0 +1,1228 @@
+16:21:29.495 Startup begin
+16:21:29.587 Startup ok
+16:21:30.927 cache want 5 videos, 305 MB allocated
+16:21:30.927 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+16:21:30.936 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+16:21:30.943 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 16 ms, total 305 MB
+16:21:30.945 player load (RAM) Geo Square.mp4
+16:21:30.954 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 15 ms, total 305 MB
+16:21:30.965 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+16:21:30.969 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+16:21:30.972 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+16:21:30.988 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+16:21:31.267 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 297 ms, total 305 MB
+16:21:35.493 pacing: vblank of main output
+16:21:35.493 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+16:21:35.530 first frame on glass 31 ms after PLAY
+16:21:38.144 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+16:21:38.167 first frame on glass 15 ms after PLAY
+16:21:42.522 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+16:21:42.546 first frame on glass 31 ms after PLAY
+16:21:45.173 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+16:21:45.207 first frame on glass 31 ms after PLAY
+16:21:49.270 STOP
+16:21:51.495 cache want 0 videos, 305 MB allocated
+16:22:12.378 cache want 3 videos, 619 MB allocated
+16:22:12.388 player load (RAM) Hadron Collider.mp4
+16:22:12.402 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 16 ms, total 619 MB
+16:22:12.402 player load (RAM) Geo Pulse.mp4
+16:22:12.408 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 15 ms, total 619 MB
+16:22:12.410 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+16:22:12.680 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 266 ms, total 619 MB
+16:22:14.108 PLAY pre-opened Geo Pulse.mp4
+16:22:14.148 first frame on glass 31 ms after PLAY
+20:18:15.959 pacing: vblank of main output
+20:18:16.365 STOP
+06:40:52.067 Startup begin
+06:40:52.204 Startup ok
+06:40:54.641 cache want 3 videos, 314 MB allocated
+06:40:54.642 player load (RAM) Hadron Collider.mp4
+06:40:54.667 player load (RAM) Geo Pulse.mp4
+06:40:54.692 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+06:40:54.717 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 78 ms, total 314 MB
+06:40:54.767 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 47 ms, total 314 MB
+06:40:55.066 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 296 ms, total 314 MB
+07:22:40.754 Startup begin
+07:22:40.839 Startup ok
+07:22:42.135 cache want 3 videos, 314 MB allocated
+07:22:42.136 player load (RAM) Hadron Collider.mp4
+07:22:42.151 player load (RAM) Geo Pulse.mp4
+07:22:42.165 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+07:22:42.165 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+07:22:42.172 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+07:22:42.300 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 125 ms, total 314 MB
+07:25:19.104 Startup begin
+07:25:19.192 Startup ok
+07:25:20.606 cache want 3 videos, 314 MB allocated
+07:25:20.606 player load (RAM) Hadron Collider.mp4
+07:25:20.631 player load (RAM) Geo Pulse.mp4
+07:25:20.645 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+07:25:20.652 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+07:25:20.660 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+07:25:20.792 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 140 ms, total 314 MB
+08:12:18.014 Startup begin
+08:12:18.154 Startup ok
+08:12:20.606 cache want 3 videos, 314 MB allocated
+08:12:20.701 player load (RAM) Hadron Collider.mp4
+08:12:20.714 player load (RAM) Geo Pulse.mp4
+08:12:20.742 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 125 ms, total 314 MB
+08:12:20.757 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+08:12:20.779 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 31 ms, total 314 MB
+08:12:21.429 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 641 ms, total 314 MB
+08:13:00.700 pacing: vblank of main output
+08:13:00.700 PLAY pre-opened Geo Pulse.mp4
+08:13:00.749 first frame on glass 47 ms after PLAY
+08:13:37.769 PLAY pre-opened Hadron Collider.mp4
+08:13:37.804 first frame on glass 31 ms after PLAY
+08:13:38.639 PLAY pre-opened Geo Pulse.mp4
+08:13:38.666 first frame on glass 31 ms after PLAY
+08:13:39.599 PLAY pre-opened Hadron Collider.mp4
+08:13:39.630 first frame on glass 31 ms after PLAY
+08:13:40.331 PLAY pre-opened Geo Pulse.mp4
+08:13:40.343 first frame on glass 16 ms after PLAY
+08:15:08.215 STOP
+08:15:08.240 cache stream closed Hadron Collider.mp4: 3 MB from RAM, 0 MB from disk
+08:15:08.249 cache stream closed Geo Pulse.mp4: 55 MB from RAM, 0 MB from disk
+08:15:08.262 cache stream closed Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 3 MB from RAM, 0 MB from disk
+10:11:56.056 Startup begin
+10:11:56.165 Startup ok
+10:11:57.368 cache want 0 videos, 0 MB allocated
+10:15:02.838 Startup begin
+10:15:02.936 Startup ok
+10:15:03.886 cache want 0 videos, 0 MB allocated
+10:15:50.672 Startup begin
+10:15:50.734 Startup ok
+10:15:51.348 cache want 0 videos, 0 MB allocated
+10:21:49.476 Startup begin
+10:21:49.541 Startup ok
+10:21:50.152 cache want 0 videos, 0 MB allocated
+10:30:07.541 Startup begin
+10:30:07.601 Startup ok
+10:30:08.253 cache want 0 videos, 0 MB allocated
+10:38:19.119 Startup begin
+10:38:19.183 Startup ok
+10:38:19.769 cache want 0 videos, 0 MB allocated
+10:38:37.459 Startup begin
+10:38:37.520 Startup ok
+10:38:38.204 cache want 0 videos, 0 MB allocated
+10:38:45.295 cache want 4 videos, 1024 MB allocated
+10:38:45.296 player load (RAM) Matilda.1996.1080p.BluRay.x264.YIFY.mp4
+10:38:45.307 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com]-2.mp4
+10:38:45.317 player load (RAM) Game.of.Thrones.S01E01.Winter.Is.Coming.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+10:38:45.327 player load (RAM) Game.of.Thrones.S01E02.The.Kingsroad.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+10:38:45.596 cache ready Matilda.1996.1080p.BluRay.x264.YIFY.mp4: 256 MB in RAM (first 256 MB) in 297 ms, total 1024 MB
+10:38:45.806 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com]-2.mp4: 256 MB in RAM (first 256 MB) in 203 ms, total 1024 MB
+10:38:46.329 cache ready Game.of.Thrones.S01E01.Winter.Is.Coming.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv: 256 MB in RAM (first 256 MB) in 531 ms, total 1024 MB
+10:38:47.187 cache want 5 videos, 1329 MB allocated
+10:38:47.196 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+10:38:47.206 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+10:38:47.215 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 15 ms, total 1329 MB
+10:38:47.218 player load (RAM) Geo Square.mp4
+10:38:47.227 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+10:38:47.229 cache stream closed Matilda.1996.1080p.BluRay.x264.YIFY.mp4: 3 MB from RAM, 0 MB from disk
+10:38:47.231 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 1329 MB
+10:38:47.235 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+10:38:47.247 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 16 ms, total 1329 MB
+10:38:47.248 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 1329 MB
+10:38:47.606 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 359 ms, total 1329 MB
+10:40:17.949 Startup begin
+10:40:18.028 Startup ok
+10:40:19.152 cache want 5 videos, 305 MB allocated
+10:40:19.159 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+10:40:19.174 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+10:40:19.175 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 31 ms, total 305 MB
+10:40:19.181 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 0 ms, total 305 MB
+10:40:19.186 player load (RAM) Geo Square.mp4
+10:40:19.188 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 16 ms, total 305 MB
+10:40:19.188 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+10:40:19.198 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+10:40:19.209 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+10:40:19.292 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 93 ms, total 305 MB
+10:42:33.990 Startup begin
+10:42:34.052 Startup ok
+10:42:35.132 cache want 5 videos, 305 MB allocated
+10:42:35.133 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+10:42:35.147 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+10:42:35.158 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 31 ms, total 305 MB
+10:42:35.162 player load (RAM) Geo Square.mp4
+10:42:35.165 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 0 ms, total 305 MB
+10:42:35.172 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 16 ms, total 305 MB
+10:42:35.173 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+10:42:35.177 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+10:42:35.192 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+10:42:35.280 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 109 ms, total 305 MB
+10:42:53.337 Startup begin
+10:42:53.397 Startup ok
+10:42:54.381 cache want 5 videos, 305 MB allocated
+10:42:54.381 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+10:42:54.399 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+10:42:54.399 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 16 ms, total 305 MB
+10:42:54.405 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 15 ms, total 305 MB
+10:42:54.410 player load (RAM) Geo Square.mp4
+10:42:54.411 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+10:42:54.411 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+10:42:54.418 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+10:42:54.429 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+10:42:54.515 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 110 ms, total 305 MB
+10:43:35.372 pacing: vblank of main output
+10:43:35.373 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+10:43:35.403 first frame on glass 16 ms after PLAY
+10:44:07.845 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+10:44:07.880 first frame on glass 31 ms after PLAY
+10:44:12.741 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+10:44:12.762 first frame on glass 15 ms after PLAY
+10:48:59.693 STOP
+12:23:28.067 Startup begin
+12:23:28.254 Startup ok
+12:23:32.758 cache want 5 videos, 305 MB allocated
+12:23:32.774 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+12:23:32.820 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+12:23:32.848 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 78 ms, total 305 MB
+12:23:32.856 player load (RAM) Geo Square.mp4
+12:23:32.885 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 47 ms, total 305 MB
+12:23:32.938 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 46 ms, total 305 MB
+12:23:32.944 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+12:23:32.976 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+12:23:32.982 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+12:23:33.391 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 407 ms, total 305 MB
+12:23:36.410 cache stream closed Church Motion Graphics - Liquid Metal Ridge.mov: 1 MB from RAM, 0 MB from disk
+12:23:45.065 Startup begin
+12:23:45.162 Startup ok
+12:23:46.735 cache want 5 videos, 305 MB allocated
+12:23:46.736 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+12:23:46.748 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+12:23:46.765 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 32 ms, total 305 MB
+12:23:46.765 player load (RAM) Geo Square.mp4
+12:23:46.773 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 0 ms, total 305 MB
+12:23:46.780 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+12:23:46.783 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+12:23:46.783 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+12:23:46.794 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+12:23:48.256 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 1469 ms, total 305 MB
+13:52:06.814 pacing: vblank of main output
+13:52:06.815 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+13:52:06.848 first frame on glass 32 ms after PLAY
+13:52:30.371 cache want 0 videos, 305 MB allocated
+13:52:32.372 STOP
+14:00:07.769 Startup begin
+14:00:07.841 Startup ok
+14:00:08.645 cache want 0 videos, 0 MB allocated
+10:54:38.493 Startup begin
+10:54:38.596 Startup ok
+10:54:40.526 cache want 0 videos, 0 MB allocated
+10:54:50.842 Startup begin
+10:54:50.936 Startup ok
+10:54:52.628 cache want 0 videos, 0 MB allocated
+10:56:18.271 Startup begin
+10:56:18.346 Startup ok
+10:56:19.261 cache want 0 videos, 0 MB allocated
+09:08:17.782 Startup begin
+09:08:17.911 Startup ok
+09:08:19.170 cache want 0 videos, 0 MB allocated
+09:09:12.508 cache want 3 videos, 314 MB allocated
+09:09:12.526 player load (RAM) Hadron Collider.mp4
+09:09:12.538 player load (RAM) Geo Pulse.mp4
+09:09:12.550 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+09:09:12.567 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 62 ms, total 314 MB
+09:09:12.580 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+09:09:13.000 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 422 ms, total 314 MB
+09:22:15.322 Startup begin
+09:22:15.391 Startup ok
+09:22:16.664 cache want 3 videos, 314 MB allocated
+09:22:16.665 player load (RAM) Hadron Collider.mp4
+09:22:16.679 player load (RAM) Geo Pulse.mp4
+09:22:16.691 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+09:22:16.692 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+09:22:16.699 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+09:22:16.811 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 109 ms, total 314 MB
+09:44:09.863 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+09:44:09.878 cache stream closed Geo Pulse.mp4: 1 MB from RAM, 0 MB from disk
+09:44:09.892 cache stream closed Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 2 MB from RAM, 0 MB from disk
+09:44:15.834 Startup begin
+09:44:15.919 Startup ok
+09:44:17.121 cache want 3 videos, 314 MB allocated
+09:44:17.122 player load (RAM) Hadron Collider.mp4
+09:44:17.143 player load (RAM) Geo Pulse.mp4
+09:44:17.158 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+09:44:17.159 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+09:44:17.166 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+09:44:17.299 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 140 ms, total 314 MB
+10:04:41.765 Startup begin
+10:04:41.866 Startup ok
+10:04:44.116 cache want 3 videos, 314 MB allocated
+10:04:44.117 player load (RAM) Hadron Collider.mp4
+10:04:44.141 player load (RAM) Geo Pulse.mp4
+10:04:44.161 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+10:04:44.167 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:04:44.172 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+10:04:44.397 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 219 ms, total 314 MB
+10:11:16.308 Startup begin
+10:11:16.453 Startup ok
+10:11:18.649 cache want 3 videos, 314 MB allocated
+10:11:18.651 player load (RAM) Hadron Collider.mp4
+10:11:18.668 player load (RAM) Geo Pulse.mp4
+10:11:18.689 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+10:11:18.693 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:11:18.699 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+10:11:18.882 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 188 ms, total 314 MB
+10:12:54.926 pacing: vblank of main output
+10:12:54.926 PLAY pre-opened Geo Pulse.mp4
+10:12:54.973 first frame on glass 47 ms after PLAY
+10:15:43.390 STOP
+10:15:43.420 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+10:15:43.431 cache stream closed Geo Pulse.mp4: 70 MB from RAM, 0 MB from disk
+10:15:43.451 cache stream closed Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 2 MB from RAM, 0 MB from disk
+10:15:43.924 Startup begin
+10:15:44.025 Startup ok
+10:15:45.812 cache want 3 videos, 314 MB allocated
+10:15:45.813 player load (RAM) Hadron Collider.mp4
+10:15:45.835 player load (RAM) Geo Pulse.mp4
+10:15:45.851 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+10:15:45.851 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:15:45.863 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+10:15:46.006 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 141 ms, total 314 MB
+10:16:39.852 Startup begin
+10:16:39.936 Startup ok
+10:16:41.545 cache want 3 videos, 314 MB allocated
+10:16:41.547 player load (RAM) Hadron Collider.mp4
+10:16:41.556 player load (RAM) Geo Pulse.mp4
+10:16:41.576 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:16:41.579 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+10:16:41.588 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+10:16:41.719 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 140 ms, total 314 MB
+10:25:02.086 Startup begin
+10:25:02.192 Startup ok
+10:25:17.223 cache want 3 videos, 314 MB allocated
+10:25:17.275 player load (RAM) Hadron Collider.mp4
+10:25:17.444 player load (RAM) Geo Pulse.mp4
+10:25:17.619 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:25:17.704 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 469 ms, total 314 MB
+10:25:17.834 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 125 ms, total 314 MB
+10:25:20.084 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 2235 ms, total 314 MB
+10:28:01.993 pacing: vblank of main output
+10:28:02.008 player load (RAM) Fire and Ice Clouds.mp4
+10:28:02.017 PLAY new load Fire and Ice Clouds.mp4
+10:28:02.033 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 31 ms, total 329 MB
+10:28:02.235 first frame on glass 219 ms after PLAY
+10:28:07.092 player load (RAM) Fire and Ice Ocean.mp4
+10:28:07.100 PLAY new load Fire and Ice Ocean.mp4
+10:28:07.129 cache ready Fire and Ice Ocean.mp4: 33 MB in RAM (whole file) in 47 ms, total 362 MB
+10:28:07.282 first frame on glass 188 ms after PLAY
+10:28:22.157 cache ready Geo Circle.mp4: 5 MB in RAM (whole file) in 16 ms, total 368 MB
+10:28:22.161 player load (RAM) Geo Circle.mp4
+10:28:22.161 PLAY new load Geo Circle.mp4
+10:28:22.350 first frame on glass 187 ms after PLAY
+10:30:47.095 Startup begin
+10:30:47.166 Startup ok
+10:30:48.852 cache want 3 videos, 314 MB allocated
+10:30:48.854 player load (RAM) Hadron Collider.mp4
+10:30:48.867 player load (RAM) Geo Pulse.mp4
+10:30:48.896 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:30:48.903 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+10:30:48.911 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+10:30:49.106 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 187 ms, total 314 MB
+10:31:26.957 pacing: vblank of main output
+10:31:26.958 PLAY pre-opened Geo Pulse.mp4
+10:31:26.989 first frame on glass 31 ms after PLAY
+10:31:46.197 PLAY pre-opened Hadron Collider.mp4
+10:31:46.230 first frame on glass 31 ms after PLAY
+10:31:47.305 PLAY pre-opened Geo Pulse.mp4
+10:31:47.315 first frame on glass 16 ms after PLAY
+10:31:49.447 PLAY pre-opened Hadron Collider.mp4
+10:31:49.470 first frame on glass 31 ms after PLAY
+10:31:50.134 PLAY pre-opened Geo Pulse.mp4
+10:31:50.154 first frame on glass 15 ms after PLAY
+10:31:57.475 PLAY pre-opened Hadron Collider.mp4
+10:31:57.497 first frame on glass 16 ms after PLAY
+10:31:58.324 PLAY pre-opened Geo Pulse.mp4
+10:31:58.346 first frame on glass 31 ms after PLAY
+10:46:42.948 Startup begin
+10:46:43.018 Startup ok
+10:46:44.883 cache want 3 videos, 314 MB allocated
+10:46:44.884 player load (RAM) Hadron Collider.mp4
+10:46:44.898 player load (RAM) Geo Pulse.mp4
+10:46:44.915 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:46:44.932 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 46 ms, total 314 MB
+10:46:44.940 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+10:46:45.082 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 141 ms, total 314 MB
+10:47:22.447 pacing: vblank of main output
+10:47:22.449 PLAY pre-opened Geo Pulse.mp4
+10:47:22.488 first frame on glass 47 ms after PLAY
+10:47:25.880 STOP
+10:47:45.338 PLAY pre-opened Geo Pulse.mp4
+10:47:45.369 first frame on glass 31 ms after PLAY
+10:47:58.155 STOP
+10:47:58.195 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+10:47:58.207 cache stream closed Geo Pulse.mp4: 12 MB from RAM, 0 MB from disk
+10:48:25.479 Startup begin
+10:48:25.549 Startup ok
+10:48:26.903 cache want 3 videos, 314 MB allocated
+10:48:26.905 player load (RAM) Hadron Collider.mp4
+10:48:26.923 player load (RAM) Geo Pulse.mp4
+10:48:26.935 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+10:48:26.939 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+10:48:26.943 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+10:48:27.058 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 109 ms, total 314 MB
+10:49:09.898 pacing: vblank of main output
+10:49:09.898 PLAY pre-opened Geo Pulse.mp4
+10:49:09.928 first frame on glass 31 ms after PLAY
+10:49:11.954 STOP
+10:49:14.938 PLAY pre-opened Geo Pulse.mp4
+10:49:14.957 first frame on glass 16 ms after PLAY
+11:00:17.711 Startup begin
+11:00:17.800 Startup ok
+11:00:19.996 cache want 3 videos, 314 MB allocated
+11:00:19.997 player load (RAM) Hadron Collider.mp4
+11:00:20.006 player load (RAM) Geo Pulse.mp4
+11:00:20.024 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:00:20.035 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+11:00:20.043 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+11:00:20.205 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 172 ms, total 314 MB
+11:13:37.808 Startup begin
+11:13:37.894 Startup ok
+11:13:39.575 cache want 3 videos, 314 MB allocated
+11:13:39.576 player load (RAM) Hadron Collider.mp4
+11:13:39.597 player load (RAM) Geo Pulse.mp4
+11:13:39.612 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 47 ms, total 314 MB
+11:13:39.613 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:13:39.621 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+11:13:39.750 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 141 ms, total 314 MB
+11:18:55.265 Startup begin
+11:18:55.583 Startup ok
+11:18:58.787 cache want 3 videos, 314 MB allocated
+11:18:58.789 player load (RAM) Hadron Collider.mp4
+11:18:58.808 player load (RAM) Geo Pulse.mp4
+11:18:58.836 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:18:58.875 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 78 ms, total 314 MB
+11:18:58.896 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 15 ms, total 314 MB
+11:18:59.131 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 235 ms, total 314 MB
+11:24:15.462 Startup begin
+11:24:15.536 Startup ok
+11:24:17.132 cache want 3 videos, 314 MB allocated
+11:24:17.134 player load (RAM) Hadron Collider.mp4
+11:24:17.146 player load (RAM) Geo Pulse.mp4
+11:24:17.157 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+11:24:17.158 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:24:17.164 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+11:24:17.271 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 109 ms, total 314 MB
+11:25:18.337 pacing: vblank of main output
+11:25:18.338 PLAY pre-opened Geo Pulse.mp4
+11:25:18.363 first frame on glass 31 ms after PLAY
+11:25:19.393 STOP
+11:25:22.256 PLAY pre-opened Geo Pulse.mp4
+11:25:22.280 first frame on glass 15 ms after PLAY
+11:26:28.705 player load (RAM) Enders Clouds.mp4
+11:26:28.706 PLAY new load Enders Clouds.mp4
+11:26:28.737 cache ready Enders Clouds.mp4: 17 MB in RAM (whole file) in 31 ms, total 331 MB
+11:26:28.995 first frame on glass 281 ms after PLAY
+11:26:30.036 player load (RAM) Fire and Ice Clouds.mp4
+11:26:30.038 PLAY new load Fire and Ice Clouds.mp4
+11:26:30.055 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 31 ms, total 347 MB
+11:26:30.237 first frame on glass 203 ms after PLAY
+11:26:42.953 cache ready Geo Circle.mp4: 5 MB in RAM (whole file) in 16 ms, total 352 MB
+11:26:42.958 player load (RAM) Geo Circle.mp4
+11:26:42.958 PLAY new load Geo Circle.mp4
+11:26:43.145 first frame on glass 187 ms after PLAY
+11:26:45.070 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 0 ms, total 360 MB
+11:26:45.071 player load (RAM) Emerald City.mp4
+11:26:45.072 PLAY new load Emerald City.mp4
+11:26:45.275 first frame on glass 203 ms after PLAY
+11:26:50.146 STOP
+11:32:26.841 Startup begin
+11:32:26.954 Startup ok
+11:32:29.381 cache want 3 videos, 314 MB allocated
+11:32:29.383 player load (RAM) Hadron Collider.mp4
+11:32:29.416 player load (RAM) Geo Pulse.mp4
+11:32:29.427 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 46 ms, total 314 MB
+11:32:29.436 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:32:29.461 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+11:32:29.659 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 203 ms, total 314 MB
+11:32:52.035 pacing: vblank of main output
+11:32:52.036 PLAY pre-opened Geo Pulse.mp4
+11:32:52.067 first frame on glass 31 ms after PLAY
+11:32:55.033 STOP
+11:37:03.816 player load (RAM) Emerald City.mp4
+11:37:03.817 PLAY new load Emerald City.mp4
+11:37:03.925 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 109 ms, total 322 MB
+11:37:04.127 first frame on glass 313 ms after PLAY
+11:39:09.805 player load (RAM) Fire and Ice Ocean.mp4
+11:39:09.808 PLAY new load Fire and Ice Ocean.mp4
+11:39:09.854 cache ready Fire and Ice Ocean.mp4: 33 MB in RAM (whole file) in 47 ms, total 355 MB
+11:39:10.032 first frame on glass 235 ms after PLAY
+11:41:28.557 Startup begin
+11:41:28.657 Startup ok
+11:41:31.237 cache want 3 videos, 314 MB allocated
+11:41:31.238 player load (RAM) Hadron Collider.mp4
+11:41:31.257 player load (RAM) Geo Pulse.mp4
+11:41:31.274 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:41:31.275 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+11:41:31.282 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+11:41:31.430 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 140 ms, total 314 MB
+11:41:41.158 pacing: vblank of main output
+11:41:41.159 PLAY pre-opened Geo Pulse.mp4
+11:41:41.193 first frame on glass 31 ms after PLAY
+11:41:51.284 player load (RAM) Emerald City.mp4
+11:41:51.284 PLAY new load Emerald City.mp4
+11:41:51.285 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 16 ms, total 322 MB
+11:41:51.487 first frame on glass 203 ms after PLAY
+11:41:53.350 player load (RAM) Enders Clouds.mp4
+11:41:53.352 PLAY new load Enders Clouds.mp4
+11:41:53.370 cache ready Enders Clouds.mp4: 17 MB in RAM (whole file) in 31 ms, total 340 MB
+11:41:53.550 first frame on glass 203 ms after PLAY
+11:41:54.478 player load (RAM) Fire and Ice Clouds.mp4
+11:41:54.478 PLAY new load Fire and Ice Clouds.mp4
+11:41:54.494 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 16 ms, total 355 MB
+11:41:54.701 first frame on glass 219 ms after PLAY
+11:41:56.032 player load (RAM) Fire and Ice Ocean.mp4
+11:41:56.035 PLAY new load Fire and Ice Ocean.mp4
+11:41:56.094 cache ready Fire and Ice Ocean.mp4: 33 MB in RAM (whole file) in 78 ms, total 388 MB
+11:41:56.269 first frame on glass 234 ms after PLAY
+11:41:56.835 cache ready Geo Circle.mp4: 5 MB in RAM (whole file) in 16 ms, total 394 MB
+11:41:56.835 player load (RAM) Geo Circle.mp4
+11:41:56.836 PLAY new load Geo Circle.mp4
+11:41:57.065 first frame on glass 234 ms after PLAY
+11:41:58.430 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+11:41:58.437 player load (RAM) Geo Pulse-2.mp4
+11:41:58.442 PLAY new load Geo Pulse-2.mp4
+11:41:58.459 cache ready Geo Pulse-2.mp4: 11 MB in RAM (whole file) in 32 ms, total 405 MB
+11:41:58.665 first frame on glass 219 ms after PLAY
+11:42:00.410 PLAY pre-opened Fire and Ice Ocean.mp4
+11:42:00.435 first frame on glass 15 ms after PLAY
+11:42:06.586 PLAY pre-opened Emerald City.mp4
+11:42:06.601 first frame on glass 15 ms after PLAY
+11:42:08.616 PLAY pre-opened Fire and Ice Ocean.mp4
+11:42:08.635 first frame on glass 16 ms after PLAY
+11:42:13.379 PLAY pre-opened Geo Pulse-2.mp4
+11:42:13.395 first frame on glass 15 ms after PLAY
+11:46:24.814 PLAY pre-opened Emerald City.mp4
+11:46:24.846 first frame on glass 31 ms after PLAY
+11:50:23.139 Startup begin
+11:50:23.222 Startup ok
+11:50:25.192 cache want 3 videos, 314 MB allocated
+11:50:25.197 player load (RAM) Hadron Collider.mp4
+11:50:25.214 player load (RAM) Geo Pulse.mp4
+11:50:25.233 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+11:50:25.236 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:50:25.242 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+11:50:25.395 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 156 ms, total 314 MB
+11:50:33.167 pacing: vblank of main output
+11:50:33.181 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 0 ms, total 322 MB
+11:50:33.182 player load (RAM) Emerald City.mp4
+11:50:33.182 PLAY new load Emerald City.mp4
+11:50:33.532 first frame on glass 360 ms after PLAY
+11:50:35.304 STOP
+11:50:35.910 player load (RAM) Enders Clouds.mp4
+11:50:35.911 PLAY new load Enders Clouds.mp4
+11:50:35.926 cache ready Enders Clouds.mp4: 17 MB in RAM (whole file) in 31 ms, total 340 MB
+11:50:36.126 first frame on glass 219 ms after PLAY
+11:50:36.930 STOP
+11:50:37.910 player load (RAM) Fire and Ice Clouds.mp4
+11:50:37.911 PLAY new load Fire and Ice Clouds.mp4
+11:50:37.925 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 31 ms, total 355 MB
+11:50:38.133 first frame on glass 219 ms after PLAY
+11:50:38.162 STOP
+11:50:38.832 player load (RAM) Fire and Ice Ocean.mp4
+11:50:38.833 PLAY new load Fire and Ice Ocean.mp4
+11:50:39.013 cache ready Fire and Ice Ocean.mp4: 33 MB in RAM (whole file) in 47 ms, total 388 MB
+11:50:39.082 first frame on glass 250 ms after PLAY
+11:50:39.772 STOP
+11:50:40.409 cache ready Geo Circle.mp4: 5 MB in RAM (whole file) in 16 ms, total 394 MB
+11:50:40.413 player load (RAM) Geo Circle.mp4
+11:50:40.413 PLAY new load Geo Circle.mp4
+11:50:40.607 first frame on glass 187 ms after PLAY
+11:50:41.110 STOP
+11:50:41.720 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+11:50:41.724 player load (RAM) Geo Pulse-2.mp4
+11:50:41.728 PLAY new load Geo Pulse-2.mp4
+11:50:41.739 cache ready Geo Pulse-2.mp4: 11 MB in RAM (whole file) in 16 ms, total 405 MB
+11:50:41.929 first frame on glass 203 ms after PLAY
+11:50:43.360 STOP
+11:50:43.393 cache stream closed Geo Pulse-2.mp4: 3 MB from RAM, 0 MB from disk
+11:50:43.402 cache stream closed Geo Pulse.mp4: 1 MB from RAM, 0 MB from disk
+11:50:43.411 cache stream closed Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 3 MB from RAM, 0 MB from disk
+11:50:43.421 cache stream closed Emerald City.mp4: 3 MB from RAM, 0 MB from disk
+11:50:43.445 cache stream closed Enders Clouds.mp4: 3 MB from RAM, 0 MB from disk
+11:52:26.606 Startup begin
+11:52:26.808 Startup ok
+11:52:28.926 cache want 3 videos, 314 MB allocated
+11:52:28.927 player load (RAM) Hadron Collider.mp4
+11:52:28.952 player load (RAM) Geo Pulse.mp4
+11:52:28.967 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 32 ms, total 314 MB
+11:52:28.969 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:52:28.974 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 15 ms, total 314 MB
+11:52:29.103 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 125 ms, total 314 MB
+12:00:23.455 pacing: vblank of main output
+12:00:23.478 player load (RAM) Emerald City.mp4
+12:00:23.479 PLAY new load Emerald City.mp4
+12:00:23.480 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 0 ms, total 322 MB
+12:00:23.750 first frame on glass 282 ms after PLAY
+12:02:13.817 STOP
+12:02:14.824 player load (RAM) Enders Clouds.mp4
+12:02:14.830 PLAY new load Enders Clouds.mp4
+12:02:14.849 cache ready Enders Clouds.mp4: 17 MB in RAM (whole file) in 31 ms, total 340 MB
+12:02:14.971 STOP
+12:02:15.585 player load (RAM) Fire and Ice Clouds.mp4
+12:02:15.596 PLAY new load Fire and Ice Clouds.mp4
+12:02:15.613 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 31 ms, total 355 MB
+12:02:15.786 first frame on glass 188 ms after PLAY
+12:02:16.127 STOP
+12:02:16.944 player load (RAM) Geo Pulse-2.mp4
+12:02:16.952 PLAY new load Geo Pulse-2.mp4
+12:02:16.964 cache ready Geo Pulse-2.mp4: 11 MB in RAM (whole file) in 16 ms, total 367 MB
+12:02:17.148 first frame on glass 203 ms after PLAY
+12:02:17.150 STOP
+12:02:17.722 cache ready Geo Circle.mp4: 5 MB in RAM (whole file) in 15 ms, total 372 MB
+12:02:17.724 player load (RAM) Geo Circle.mp4
+12:02:17.725 PLAY new load Geo Circle.mp4
+12:02:17.882 STOP
+12:02:18.598 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+12:02:18.607 player load (RAM) Fire and Ice Ocean.mp4
+12:02:18.608 PLAY new load Fire and Ice Ocean.mp4
+12:02:18.636 cache ready Fire and Ice Ocean.mp4: 33 MB in RAM (whole file) in 32 ms, total 405 MB
+12:02:18.815 first frame on glass 219 ms after PLAY
+12:02:19.113 STOP
+12:02:19.761 PLAY pre-opened Emerald City.mp4
+12:02:19.775 first frame on glass 15 ms after PLAY
+12:02:19.891 STOP
+12:02:20.974 PLAY pre-opened Fire and Ice Clouds.mp4
+12:02:20.991 first frame on glass 16 ms after PLAY
+12:02:21.121 STOP
+12:02:22.376 PLAY pre-opened Geo Circle.mp4
+12:02:22.396 first frame on glass 15 ms after PLAY
+12:02:22.531 STOP
+12:02:23.102 PLAY pre-opened Fire and Ice Ocean.mp4
+12:02:23.121 first frame on glass 16 ms after PLAY
+12:03:33.539 STOP
+12:03:35.072 PLAY pre-opened Fire and Ice Ocean.mp4
+12:03:35.093 first frame on glass 16 ms after PLAY
+12:03:35.230 STOP
+12:03:35.806 PLAY pre-opened Emerald City.mp4
+12:03:35.825 first frame on glass 16 ms after PLAY
+12:03:56.016 STOP
+12:03:57.168 PLAY pre-opened Enders Clouds.mp4
+12:03:57.195 first frame on glass 31 ms after PLAY
+12:03:57.307 STOP
+12:03:57.893 PLAY pre-opened Fire and Ice Clouds.mp4
+12:03:57.907 first frame on glass 16 ms after PLAY
+12:03:58.005 STOP
+12:03:58.592 PLAY pre-opened Geo Pulse-2.mp4
+12:03:58.608 first frame on glass 15 ms after PLAY
+12:03:58.673 STOP
+12:03:59.306 PLAY pre-opened Geo Circle.mp4
+12:03:59.323 first frame on glass 16 ms after PLAY
+12:03:59.393 STOP
+12:03:59.970 PLAY pre-opened Fire and Ice Ocean.mp4
+12:03:59.990 first frame on glass 16 ms after PLAY
+12:04:00.635 STOP
+12:04:01.329 PLAY pre-opened Fire and Ice Ocean.mp4
+12:04:01.355 first frame on glass 15 ms after PLAY
+12:04:01.561 STOP
+12:04:02.119 PLAY pre-opened Fire and Ice Ocean.mp4
+12:04:02.137 first frame on glass 16 ms after PLAY
+12:04:02.861 STOP
+12:04:03.431 PLAY pre-opened Fire and Ice Ocean.mp4
+12:04:03.453 first frame on glass 32 ms after PLAY
+12:04:04.059 STOP
+12:04:04.911 PLAY pre-opened Geo Circle.mp4
+12:04:04.937 first frame on glass 15 ms after PLAY
+12:04:05.300 STOP
+12:04:05.860 PLAY pre-opened Geo Pulse-2.mp4
+12:04:05.883 first frame on glass 16 ms after PLAY
+12:04:07.253 STOP
+12:04:07.819 PLAY pre-opened Fire and Ice Clouds.mp4
+12:04:07.833 first frame on glass 16 ms after PLAY
+12:04:08.950 STOP
+12:04:09.533 PLAY pre-opened Geo Pulse-2.mp4
+12:04:09.545 first frame on glass 0 ms after PLAY
+12:04:22.521 STOP
+12:04:23.106 PLAY pre-opened Geo Circle.mp4
+12:04:23.119 first frame on glass 16 ms after PLAY
+12:04:23.684 STOP
+12:04:24.007 PLAY pre-opened Geo Pulse-2.mp4
+12:04:24.020 first frame on glass 15 ms after PLAY
+12:04:24.985 STOP
+12:04:25.250 PLAY pre-opened Fire and Ice Clouds.mp4
+12:04:25.267 first frame on glass 15 ms after PLAY
+12:13:15.302 STOP
+12:13:15.591 PLAY pre-opened Emerald City.mp4
+12:13:15.608 first frame on glass 15 ms after PLAY
+12:13:16.718 STOP
+12:13:17.012 PLAY pre-opened Enders Clouds.mp4
+12:13:17.038 first frame on glass 31 ms after PLAY
+12:13:18.101 STOP
+12:13:18.387 PLAY pre-opened Fire and Ice Clouds.mp4
+12:13:18.403 first frame on glass 15 ms after PLAY
+12:13:19.463 STOP
+12:13:19.763 PLAY pre-opened Fire and Ice Ocean.mp4
+12:13:19.785 first frame on glass 31 ms after PLAY
+12:13:21.759 STOP
+12:13:22.024 PLAY pre-opened Geo Circle.mp4
+12:13:22.050 first frame on glass 31 ms after PLAY
+12:13:23.207 STOP
+12:13:23.510 PLAY pre-opened Fire and Ice Ocean.mp4
+12:13:23.532 first frame on glass 31 ms after PLAY
+12:13:24.371 STOP
+12:13:24.687 PLAY pre-opened Geo Circle.mp4
+12:13:24.712 first frame on glass 16 ms after PLAY
+12:13:25.743 STOP
+12:13:26.077 PLAY pre-opened Geo Pulse-2.mp4
+12:13:26.097 first frame on glass 31 ms after PLAY
+12:13:27.176 STOP
+12:13:27.499 PLAY pre-opened Geo Pulse-2.mp4
+12:13:27.513 first frame on glass 16 ms after PLAY
+12:13:28.108 STOP
+12:13:28.394 PLAY pre-opened Geo Pulse-2.mp4
+12:13:28.409 first frame on glass 16 ms after PLAY
+12:13:28.864 STOP
+12:13:29.227 PLAY pre-opened Geo Pulse-2.mp4
+12:13:29.244 first frame on glass 16 ms after PLAY
+12:13:29.466 STOP
+12:13:29.781 PLAY pre-opened Geo Pulse-2.mp4
+12:13:29.793 first frame on glass 16 ms after PLAY
+12:13:55.299 Startup begin
+12:13:55.408 Startup ok
+12:13:58.610 cache want 3 videos, 314 MB allocated
+12:13:58.613 player load (RAM) Hadron Collider.mp4
+12:13:58.632 player load (RAM) Geo Pulse.mp4
+12:13:58.649 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+12:13:58.651 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 31 ms, total 314 MB
+12:13:58.661 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 16 ms, total 314 MB
+12:13:58.813 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 156 ms, total 314 MB
+12:14:05.257 pacing: vblank of main output
+12:14:05.273 player load (RAM) Enders Clouds.mp4
+12:14:05.280 PLAY new load Enders Clouds.mp4
+12:14:05.296 cache ready Enders Clouds.mp4: 17 MB in RAM (whole file) in 46 ms, total 331 MB
+12:14:05.638 first frame on glass 360 ms after PLAY
+12:14:06.090 STOP
+12:14:06.393 player load (RAM) Fire and Ice Clouds.mp4
+12:14:06.393 PLAY new load Fire and Ice Clouds.mp4
+12:14:06.403 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 15 ms, total 347 MB
+12:14:06.578 first frame on glass 188 ms after PLAY
+12:14:09.123 STOP
+12:14:09.412 player load (RAM) Emerald City.mp4
+12:14:09.412 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 0 ms, total 355 MB
+12:14:09.412 PLAY new load Emerald City.mp4
+12:14:09.614 first frame on glass 203 ms after PLAY
+12:14:11.287 STOP
+12:14:11.549 PLAY pre-opened Enders Clouds.mp4
+12:14:11.570 first frame on glass 16 ms after PLAY
+12:14:13.039 STOP
+12:14:13.474 PLAY pre-opened Geo Pulse.mp4
+12:14:13.499 first frame on glass 16 ms after PLAY
+12:27:08.011 pacing: vblank of main output
+12:27:16.602 cache want 0 videos, 355 MB allocated
+12:27:21.455 cache want 5 videos, 661 MB allocated
+12:27:21.472 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+12:27:21.484 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 31 ms, total 661 MB
+12:27:21.487 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+12:27:21.487 cache stream closed Hadron Collider.mp4: 1 MB from RAM, 0 MB from disk
+12:27:21.490 player load (RAM) Geo Square.mp4
+12:27:21.494 cache stream closed Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 0 MB from RAM, 2 MB from disk
+12:27:21.501 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+12:27:21.502 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 661 MB
+12:27:21.506 cache stream closed Fire and Ice Clouds.mp4: 2 MB from RAM, 0 MB from disk
+12:27:21.511 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+12:27:21.517 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 15 ms, total 661 MB
+12:27:21.519 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 661 MB
+12:27:22.143 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 625 ms, total 661 MB
+12:50:30.125 STOP
+05:46:07.450 Startup begin
+05:46:07.565 Startup ok
+05:46:12.290 cache want 5 videos, 305 MB allocated
+05:46:12.456 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 141 ms, total 305 MB
+05:46:12.573 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 93 ms, total 305 MB
+05:46:12.659 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 78 ms, total 305 MB
+05:46:12.673 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 16 ms, total 305 MB
+05:46:12.868 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+05:46:13.068 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+05:46:13.229 player load (RAM) Geo Square.mp4
+05:46:13.435 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+05:46:13.797 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+05:46:14.278 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 1594 ms, total 305 MB
+05:50:54.785 pacing: vblank of main output
+05:50:54.785 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+05:50:54.827 first frame on glass 47 ms after PLAY
+05:50:58.046 STOP
+05:50:58.468 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+05:50:58.507 first frame on glass 31 ms after PLAY
+05:50:59.916 STOP
+05:51:00.329 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+05:51:00.345 first frame on glass 16 ms after PLAY
+05:51:02.061 STOP
+05:51:02.495 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+05:51:02.512 first frame on glass 32 ms after PLAY
+05:51:17.727 STOP
+05:51:18.181 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+05:51:18.197 first frame on glass 15 ms after PLAY
+05:51:19.094 STOP
+05:51:19.511 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+05:51:19.532 first frame on glass 15 ms after PLAY
+05:51:20.298 STOP
+05:51:20.727 PLAY pre-opened Geo Square.mp4
+05:51:20.755 first frame on glass 31 ms after PLAY
+05:51:51.244 STOP
+05:51:51.668 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+05:51:51.701 first frame on glass 47 ms after PLAY
+05:51:54.529 STOP
+05:51:54.990 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+05:51:55.016 first frame on glass 32 ms after PLAY
+05:51:55.859 STOP
+05:51:56.363 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+05:51:56.381 first frame on glass 16 ms after PLAY
+05:55:14.845 Startup begin
+05:55:14.955 Startup ok
+05:55:16.502 cache want 5 videos, 305 MB allocated
+05:55:16.503 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+05:55:16.523 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+05:55:16.534 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 31 ms, total 305 MB
+05:55:16.538 player load (RAM) Geo Square.mp4
+05:55:16.544 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 305 MB
+05:55:16.552 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+05:55:16.553 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+05:55:16.555 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+05:55:16.571 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+05:55:17.247 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 703 ms, total 305 MB
+05:55:42.742 pacing: vblank of main output
+05:55:42.742 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+05:55:42.774 first frame on glass 32 ms after PLAY
+05:55:44.069 PLAY pre-opened Geo Square.mp4
+05:55:44.102 first frame on glass 32 ms after PLAY
+05:55:48.293 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+05:55:48.360 first frame on glass 78 ms after PLAY
+05:55:52.940 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+05:55:52.957 first frame on glass 16 ms after PLAY
+05:55:54.601 STOP
+05:55:54.633 cache stream closed Church Motion Graphics - Liquid Metal Ridge.mov: 1 MB from RAM, 0 MB from disk
+05:55:54.644 cache stream closed Church Motion Graphics - Marble Flow Royal.mov: 6 MB from RAM, 0 MB from disk
+06:01:12.751 Startup begin
+06:01:12.940 Startup ok
+06:01:16.263 cache want 5 videos, 305 MB allocated
+06:01:16.265 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+06:01:16.292 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+06:01:16.296 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 31 ms, total 305 MB
+06:01:16.309 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 0 ms, total 305 MB
+06:01:16.321 player load (RAM) Geo Square.mp4
+06:01:16.323 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+06:01:16.325 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+06:01:16.350 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+06:01:16.373 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+06:01:16.555 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 219 ms, total 305 MB
+06:11:08.337 Startup begin
+06:11:08.533 Startup ok
+06:11:12.187 cache want 5 videos, 305 MB allocated
+06:11:12.189 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+06:11:12.199 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+06:11:12.209 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 16 ms, total 305 MB
+06:11:12.220 player load (RAM) Geo Square.mp4
+06:11:12.224 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 305 MB
+06:11:12.236 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 15 ms, total 305 MB
+06:11:12.237 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+06:11:12.244 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+06:11:12.263 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+06:11:12.449 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 203 ms, total 305 MB
+11:13:45.862 Startup begin
+11:13:46.234 Startup ok
+11:13:51.552 cache want 5 videos, 305 MB allocated
+11:13:51.588 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+11:13:51.611 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+11:13:51.627 player load (RAM) Geo Square.mp4
+11:13:51.647 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:13:51.665 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+11:13:51.724 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 172 ms, total 305 MB
+11:13:51.918 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 78 ms, total 305 MB
+11:13:51.952 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 31 ms, total 305 MB
+11:13:51.966 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 16 ms, total 305 MB
+11:13:56.036 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 4078 ms, total 305 MB
+11:13:59.994 pacing: vblank of main output
+11:14:00.011 player load (RAM) Emerald City.mp4
+11:14:00.011 PLAY new load Emerald City.mp4
+11:14:00.052 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 47 ms, total 313 MB
+11:14:03.492 player load (RAM) Enders Clouds.mp4
+11:14:03.494 PLAY new load Enders Clouds.mp4
+11:14:03.507 cache ready Enders Clouds.mp4: 17 MB in RAM (whole file) in 16 ms, total 331 MB
+11:14:03.797 first frame on glass 297 ms after PLAY
+11:14:05.583 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:14:05.602 first frame on glass 16 ms after PLAY
+11:14:08.177 PLAY pre-opened Geo Square.mp4
+11:14:08.203 first frame on glass 15 ms after PLAY
+11:14:09.430 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:14:09.460 first frame on glass 31 ms after PLAY
+11:14:16.405 PLAY pre-opened Geo Square.mp4
+11:14:17.232 first frame on glass 829 ms after PLAY
+11:14:17.849 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:14:17.869 first frame on glass 15 ms after PLAY
+11:14:19.283 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:14:19.302 first frame on glass 16 ms after PLAY
+11:14:21.928 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+11:14:21.964 first frame on glass 31 ms after PLAY
+11:14:50.250 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:14:50.273 first frame on glass 15 ms after PLAY
+11:14:51.398 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:14:51.424 first frame on glass 16 ms after PLAY
+11:14:52.071 PLAY pre-opened Geo Square.mp4
+11:14:52.088 first frame on glass 16 ms after PLAY
+11:15:01.183 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:15:01.199 first frame on glass 15 ms after PLAY
+11:18:25.969 Startup begin
+11:18:26.068 Startup ok
+11:18:27.605 cache want 5 videos, 305 MB allocated
+11:18:27.607 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+11:18:27.621 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 15 ms, total 305 MB
+11:18:27.624 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+11:18:27.629 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 305 MB
+11:18:27.634 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+11:18:27.635 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+11:18:27.636 player load (RAM) Geo Square.mp4
+11:18:27.653 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:18:27.664 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+11:18:27.767 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 140 ms, total 305 MB
+11:18:33.575 pacing: vblank of main output
+11:18:33.577 PLAY pre-opened Geo Square.mp4
+11:18:33.640 first frame on glass 63 ms after PLAY
+11:18:34.947 STOP
+11:18:35.323 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:18:35.355 first frame on glass 32 ms after PLAY
+11:18:36.294 STOP
+11:18:36.644 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:18:36.675 first frame on glass 32 ms after PLAY
+11:18:37.977 STOP
+11:18:38.326 PLAY pre-opened Geo Square.mp4
+11:18:38.346 first frame on glass 32 ms after PLAY
+11:18:39.029 STOP
+11:18:39.376 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:18:39.394 first frame on glass 15 ms after PLAY
+11:22:26.899 Startup begin
+11:22:26.975 Startup ok
+11:22:28.485 cache want 5 videos, 305 MB allocated
+11:22:28.491 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+11:22:28.509 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+11:22:28.514 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 16 ms, total 305 MB
+11:22:28.522 player load (RAM) Geo Square.mp4
+ - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 15 ms, total 305 MB
+11:22:28.528 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 305 MB
+11:22:28.529 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 305 MB
+11:22:28.534 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:22:28.546 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+11:22:28.665 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 141 ms, total 305 MB
+11:22:45.594 pacing: vblank of main output
+11:22:45.594 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:22:45.617 first frame on glass 15 ms after PLAY
+11:22:46.486 STOP
+11:22:46.774 PLAY pre-opened Geo Square.mp4
+11:22:46.806 first frame on glass 32 ms after PLAY
+11:22:47.661 STOP
+11:22:47.941 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:22:47.963 first frame on glass 16 ms after PLAY
+11:22:59.295 STOP
+11:22:59.555 PLAY pre-opened Geo Square.mp4
+11:22:59.583 first frame on glass 31 ms after PLAY
+11:23:00.747 STOP
+11:23:01.043 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:23:01.063 first frame on glass 31 ms after PLAY
+11:23:02.768 STOP
+11:23:03.035 PLAY pre-opened Geo Square.mp4
+11:23:03.046 first frame on glass 0 ms after PLAY
+11:23:04.080 STOP
+11:23:04.356 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:23:04.377 first frame on glass 31 ms after PLAY
+11:23:05.395 STOP
+11:23:05.666 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+11:23:05.684 first frame on glass 16 ms after PLAY
+11:23:10.992 STOP
+11:23:11.267 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:23:11.290 first frame on glass 16 ms after PLAY
+11:23:11.847 STOP
+11:23:12.132 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+11:23:12.153 first frame on glass 15 ms after PLAY
+11:26:20.198 cache want 6 videos, 320 MB allocated
+11:26:20.360 player load (RAM) Fire and Ice Clouds.mp4
+11:26:21.362 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 500 ms, total 320 MB
+11:26:28.867 STOP
+11:26:29.143 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+11:26:29.170 first frame on glass 16 ms after PLAY
+11:32:14.153 Startup begin
+11:32:14.244 Startup ok
+11:32:15.900 cache want 6 videos, 320 MB allocated
+11:32:15.902 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+11:32:15.919 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+11:32:15.920 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 16 ms, total 320 MB
+11:32:15.928 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 320 MB
+11:32:15.935 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 0 ms, total 320 MB
+11:32:15.935 player load (RAM) Geo Square.mp4
+11:32:15.935 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 320 MB
+11:32:15.951 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:32:15.967 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+11:32:15.982 player load (RAM) Fire and Ice Clouds.mp4
+11:32:16.094 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 156 ms, total 320 MB
+11:32:16.105 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 0 ms, total 320 MB
+11:33:01.050 Startup begin
+11:33:01.148 Startup ok
+11:33:02.967 cache want 6 videos, 320 MB allocated
+11:33:02.969 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+11:33:02.992 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+11:33:02.994 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 15 ms, total 320 MB
+11:33:03.011 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 320 MB
+11:33:03.014 player load (RAM) Geo Square.mp4
+11:33:03.019 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 15 ms, total 320 MB
+11:33:03.025 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 320 MB
+11:33:03.032 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:03.048 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+11:33:03.064 player load (RAM) Fire and Ice Clouds.mp4
+11:33:03.066 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 15 ms, total 320 MB
+11:33:04.102 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 1079 ms, total 320 MB
+11:33:17.879 pacing: vblank of main output
+11:33:17.896 cache ready Emerald City.mp4: 8 MB in RAM (whole file) in 15 ms, total 329 MB
+11:33:17.898 player load (RAM) Emerald City.mp4
+11:33:17.899 PLAY new load Emerald City.mp4
+11:33:18.800 first frame on glass 907 ms after PLAY
+11:33:21.170 STOP
+11:33:21.438 player load (RAM) Fire and Ice Ocean.mp4
+11:33:21.438 PLAY new load Fire and Ice Ocean.mp4
+11:33:21.470 cache ready Fire and Ice Ocean.mp4: 33 MB in RAM (whole file) in 47 ms, total 362 MB
+11:33:21.660 first frame on glass 219 ms after PLAY
+11:33:22.948 STOP
+11:33:23.214 cache stream closed Church Motion Graphics - Liquid Metal Ridge.mov: 1 MB from RAM, 0 MB from disk
+11:33:23.217 player load (RAM) Geo Circle.mp4
+11:33:23.218 PLAY new load Geo Circle.mp4
+11:33:23.232 cache ready Geo Circle.mp4: 5 MB in RAM (whole file) in 16 ms, total 367 MB
+11:33:23.459 first frame on glass 250 ms after PLAY
+11:33:24.687 STOP
+11:33:24.938 cache stream closed Church Motion Graphics - Marble Flow Royal.mov: 0 MB from RAM, 0 MB from disk
+11:33:24.941 player load (RAM) Geo Pulse-2.mp4
+11:33:24.954 PLAY new load Geo Pulse-2.mp4
+11:33:24.966 cache ready Geo Pulse-2.mp4: 11 MB in RAM (whole file) in 31 ms, total 379 MB
+11:33:25.173 first frame on glass 235 ms after PLAY
+11:33:29.934 STOP
+11:33:30.217 PLAY pre-opened Geo Pulse-2.mp4
+11:33:30.232 first frame on glass 16 ms after PLAY
+11:33:31.372 STOP
+11:33:31.632 PLAY pre-opened Geo Pulse-2.mp4
+11:33:31.647 first frame on glass 15 ms after PLAY
+11:33:32.582 STOP
+11:33:32.853 PLAY pre-opened Fire and Ice Clouds.mp4
+11:33:32.869 first frame on glass 15 ms after PLAY
+11:33:41.988 STOP
+11:33:42.270 cache stream closed Geo Square.mp4: 1 MB from RAM, 0 MB from disk
+11:33:42.279 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+11:33:42.280 PLAY new load Church Motion Graphics - Liquid Metal Ridge.mov
+11:33:42.434 first frame on glass 157 ms after PLAY
+11:33:44.740 STOP
+11:33:45.039 cache stream closed 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB from RAM, 0 MB from disk
+11:33:45.043 player load (RAM) Geo Square.mp4
+11:33:45.044 PLAY new load Geo Square.mp4
+11:33:45.272 first frame on glass 234 ms after PLAY
+11:33:46.230 STOP
+11:33:46.507 cache stream closed When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 3 MB from RAM, 5 MB from disk
+11:33:46.512 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:46.513 PLAY new load 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:46.603 first frame on glass 94 ms after PLAY
+11:33:47.931 STOP
+11:33:48.207 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:48.232 first frame on glass 16 ms after PLAY
+11:33:48.747 STOP
+11:33:49.047 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:49.064 first frame on glass 31 ms after PLAY
+11:33:49.455 STOP
+11:33:49.736 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:49.749 first frame on glass 0 ms after PLAY
+11:33:50.111 STOP
+11:33:50.390 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:50.414 first frame on glass 31 ms after PLAY
+11:33:50.767 STOP
+11:33:51.039 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+11:33:51.064 first frame on glass 31 ms after PLAY
+11:33:57.736 STOP
+11:33:57.753 cache stream closed Geo Circle.mp4: 2 MB from RAM, 0 MB from disk
+11:33:57.773 cache stream closed Geo Pulse-2.mp4: 12 MB from RAM, 0 MB from disk
+11:33:57.812 cache stream closed Church Motion Graphics - Liquid Metal Ridge.mov: 7 MB from RAM, 0 MB from disk
+18:40:43.521 Startup begin
+18:40:43.627 Startup ok
+18:40:46.312 cache want 6 videos, 320 MB allocated
+18:40:46.344 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 31 ms, total 320 MB
+18:40:46.344 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+18:40:46.360 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+18:40:46.363 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 320 MB
+18:40:46.373 player load (RAM) Geo Square.mp4
+18:40:46.377 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 15 ms, total 320 MB
+18:40:46.377 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 320 MB
+18:40:46.386 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:40:46.394 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+18:40:46.402 player load (RAM) Fire and Ice Clouds.mp4
+18:40:46.492 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 31 ms, total 320 MB
+18:40:48.239 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 1860 ms, total 320 MB
+18:41:00.472 pacing: vblank of main output
+18:41:00.472 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+18:41:00.505 first frame on glass 31 ms after PLAY
+18:41:33.792 STOP
+18:41:34.086 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+18:41:34.099 first frame on glass 0 ms after PLAY
+18:41:38.094 STOP
+18:41:38.378 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+18:41:38.395 first frame on glass 16 ms after PLAY
+18:41:43.346 STOP
+18:41:43.648 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+18:41:43.682 first frame on glass 47 ms after PLAY
+18:41:44.487 STOP
+18:41:44.785 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+18:41:44.806 first frame on glass 32 ms after PLAY
+18:42:34.339 STOP
+18:42:40.841 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+18:42:40.866 first frame on glass 16 ms after PLAY
+18:42:46.805 STOP
+18:42:57.856 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:42:57.878 first frame on glass 15 ms after PLAY
+18:43:00.376 STOP
+18:43:01.866 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:43:01.887 first frame on glass 31 ms after PLAY
+18:43:02.449 STOP
+18:43:05.869 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+18:43:05.886 first frame on glass 16 ms after PLAY
+18:43:06.886 STOP
+18:43:11.254 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:43:11.263 first frame on glass 16 ms after PLAY
+18:43:13.500 STOP
+18:43:13.798 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:43:13.810 first frame on glass 16 ms after PLAY
+18:43:14.193 STOP
+18:43:16.062 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:43:16.078 first frame on glass 15 ms after PLAY
+18:43:16.632 STOP
+18:43:17.344 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+18:43:17.358 first frame on glass 16 ms after PLAY
+06:37:30.364 STOP
+06:37:30.679 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+06:37:30.723 first frame on glass 31 ms after PLAY
+06:38:34.343 STOP
+10:58:01.977 cache stream closed Church Motion Graphics - Liquid Metal Ridge.mov: 16 MB from RAM, 0 MB from disk
+10:58:01.999 cache stream closed Church Motion Graphics - Marble Flow Royal.mov: 3 MB from RAM, 0 MB from disk
+09:16:04.458 Startup begin
+09:16:04.545 Startup ok
+09:16:06.397 cache want 6 videos, 320 MB allocated
+09:16:06.421 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+09:16:06.428 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 32 ms, total 320 MB
+09:16:06.444 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+09:16:06.446 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 15 ms, total 320 MB
+09:16:06.460 player load (RAM) Geo Square.mp4
+09:16:06.465 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 16 ms, total 320 MB
+09:16:06.467 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 320 MB
+09:16:06.476 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:16:06.495 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+09:16:06.513 player load (RAM) Fire and Ice Clouds.mp4
+09:16:06.550 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 16 ms, total 320 MB
+09:16:07.481 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 1015 ms, total 320 MB
+09:16:13.634 pacing: vblank of main output
+09:16:13.635 PLAY pre-opened Geo Square.mp4
+09:16:13.667 first frame on glass 31 ms after PLAY
+09:16:15.762 STOP
+09:16:16.046 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:16:16.075 first frame on glass 31 ms after PLAY
+09:16:17.265 STOP
+09:16:17.545 PLAY pre-opened When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+09:16:17.581 first frame on glass 31 ms after PLAY
+09:16:18.455 STOP
+09:16:18.747 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:16:18.770 first frame on glass 16 ms after PLAY
+09:16:19.842 STOP
+09:16:20.155 PLAY pre-opened Geo Square.mp4
+09:16:20.169 first frame on glass 16 ms after PLAY
+09:22:11.455 Startup begin
+09:22:11.580 Startup ok
+09:22:14.159 cache want 6 videos, 320 MB allocated
+09:22:14.163 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+09:22:14.195 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+09:22:14.205 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 47 ms, total 320 MB
+09:22:14.214 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 16 ms, total 320 MB
+09:22:14.214 player load (RAM) Geo Square.mp4
+09:22:14.227 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 15 ms, total 320 MB
+09:22:14.227 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 320 MB
+09:22:14.237 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:22:14.255 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+09:22:14.273 player load (RAM) Fire and Ice Clouds.mp4
+09:22:14.445 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 219 ms, total 320 MB
+09:22:14.459 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 0 ms, total 320 MB
+09:24:47.620 Startup begin
+09:24:47.765 Startup ok
+09:24:50.770 cache want 6 videos, 320 MB allocated
+09:24:50.771 player load (RAM) Church Motion Graphics - Liquid Metal Ridge.mov
+09:24:50.816 player load (RAM) Church Motion Graphics - Marble Flow Royal.mov
+09:24:50.851 player load (RAM) Geo Square.mp4
+09:24:50.864 cache ready Church Motion Graphics - Liquid Metal Ridge.mov: 26 MB in RAM (whole file) in 78 ms, total 320 MB
+09:24:50.884 player load (RAM) 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:24:50.904 player load (RAM) When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4
+09:24:50.906 cache ready Church Motion Graphics - Marble Flow Royal.mov: 12 MB in RAM (whole file) in 31 ms, total 320 MB
+09:24:50.923 player load (RAM) Fire and Ice Clouds.mp4
+09:24:50.930 cache ready Geo Square.mp4: 10 MB in RAM (whole file) in 32 ms, total 320 MB
+09:24:50.942 cache ready 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4: 0 MB in RAM (whole file) in 0 ms, total 320 MB
+09:24:51.910 cache ready Fire and Ice Clouds.mp4: 15 MB in RAM (whole file) in 187 ms, total 320 MB
+09:24:52.195 cache ready When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 256 MB in RAM (first 256 MB) in 1250 ms, total 320 MB
+09:26:13.276 pacing: vblank of main output
+09:26:13.278 PLAY pre-opened Fire and Ice Clouds.mp4
+09:26:13.293 first frame on glass 16 ms after PLAY
+09:26:15.964 STOP
+09:26:16.251 PLAY pre-opened Geo Square.mp4
+09:26:16.273 first frame on glass 31 ms after PLAY
+09:26:26.154 STOP
+09:26:26.421 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:26:26.441 first frame on glass 16 ms after PLAY
+09:26:27.222 STOP
+09:26:27.493 PLAY pre-opened Geo Square.mp4
+09:26:27.505 first frame on glass 0 ms after PLAY
+09:26:34.337 cache want 5 videos, 320 MB allocated
+09:26:36.535 cache want 6 videos, 320 MB allocated
+09:26:37.039 STOP
+09:26:37.309 PLAY pre-opened Fire and Ice Clouds.mp4
+09:26:37.329 first frame on glass 15 ms after PLAY
+09:26:41.482 STOP
+09:26:41.756 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+09:26:41.791 first frame on glass 31 ms after PLAY
+09:26:43.730 STOP
+09:26:45.310 PLAY pre-opened Church Motion Graphics - Liquid Metal Ridge.mov
+09:26:45.323 first frame on glass 15 ms after PLAY
+09:27:27.509 pacing: vblank of main output
+09:27:30.954 STOP
+09:27:31.246 PLAY pre-opened Geo Square.mp4
+09:27:31.268 first frame on glass 16 ms after PLAY
+09:27:32.595 STOP
+09:27:34.349 PLAY pre-opened Geo Square.mp4
+09:27:34.370 first frame on glass 16 ms after PLAY
+09:27:35.867 STOP
+09:27:36.170 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:27:36.185 first frame on glass 16 ms after PLAY
+09:27:40.740 STOP
+09:27:41.016 PLAY pre-opened Church Motion Graphics - Marble Flow Royal.mov
+09:27:41.052 first frame on glass 47 ms after PLAY
+09:27:44.436 STOP
+09:27:44.721 PLAY pre-opened Fire and Ice Clouds.mp4
+09:27:44.734 first frame on glass 15 ms after PLAY
+09:27:45.803 STOP
+09:27:46.093 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:27:46.116 first frame on glass 31 ms after PLAY
+09:27:46.818 STOP
+09:27:47.133 PLAY pre-opened Geo Square.mp4
+09:27:47.150 first frame on glass 15 ms after PLAY
+09:27:48.505 STOP
+09:27:48.793 PLAY pre-opened 4cb37b3b-f625-4183-a0ff-6f9d306da218blue to green.mp4
+09:27:48.815 first frame on glass 16 ms after PLAY
+09:27:49.208 STOP
+09:27:49.509 PLAY pre-opened Geo Square.mp4
+09:27:49.533 first frame on glass 15 ms after PLAY
+09:28:05.608 cache want 3 videos, 635 MB allocated
+09:28:05.629 player load (RAM) Hadron Collider.mp4
+09:28:05.648 player load (RAM) Geo Pulse.mp4
+09:28:05.652 cache stream closed When You Go For A Night Drive In GTA 5 (Playlist) - ForzaRush (1080p).mp4: 2 MB from RAM, 5 MB from disk
+09:28:05.669 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+09:28:05.704 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 94 ms, total 635 MB
+09:28:05.730 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 31 ms, total 635 MB
+09:28:06.423 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 688 ms, total 635 MB
+10:41:28.500 Startup begin
+10:41:28.699 Startup ok
+10:41:30.527 cache want 0 videos, 0 MB allocated
+11:01:03.242 Startup begin
+11:01:03.311 Startup ok
+11:01:04.649 cache want 3 videos, 314 MB allocated
+11:01:04.650 player load (RAM) Hadron Collider.mp4
+11:01:04.666 player load (RAM) Geo Pulse.mp4
+11:01:04.678 cache ready Hadron Collider.mp4: 46 MB in RAM (whole file) in 32 ms, total 314 MB
+11:01:04.679 player load (RAM) Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4
+11:01:04.685 cache ready Geo Pulse.mp4: 11 MB in RAM (whole file) in 0 ms, total 314 MB
+11:01:04.787 cache ready Better Watch Out (2016) Watch Free Movie Online - 123MoviesHub[via torchbrowser.com].mp4: 256 MB in RAM (first 256 MB) in 109 ms, total 314 MB

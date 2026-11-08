@@ -1,0 +1,423 @@
+08:19:07.899 [tid 7600] Shutdown
+08:31:54.634 [tid 5756] Shutdown
+08:32:54.345 [tid 19852] Shutdown
+08:33:21.684 [tid 20716] Shutdown
+08:36:23.475 [tid 21304] Shutdown
+08:37:35.128 [tid 4068] Shutdown
+09:53:35.007 [tid 10856] PlayTrack 44: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Don't Threaten Me with a Good Time-2.mp3
+09:53:35.020 [tid 10856] Media Engine ready (audio-only), engineEx=yes
+09:53:35.021 [tid 10856]   MFCreateFile hr=0x00000000
+09:53:35.031 [tid 10856]   SetSourceFromByteStream hr=0x00000000
+09:53:35.032 [tid 10856]   Load hr=0x00000000
+09:53:35.385 [tid 9220] event LOADEDMETADATA duration=213.24
+09:53:35.387 [tid 9220] event CANPLAY wantPlay=1
+09:53:35.387 [tid 9220]   Play from CANPLAY hr=0x00000000
+09:53:35.397 [tid 10856]   Play hr=0x00000000 readyState=4 duration=213.24 waited=360ms
+09:53:35.405 [tid 17980] event PLAYING
+09:53:43.755 [tid 10856] event PAUSE
+09:53:43.756 [tid 10856] Pause hr=0x00000000
+09:53:44.340 [tid 10856] Resume hr=0x00000000
+09:53:44.342 [tid 17980] event PLAYING
+09:53:47.093 [tid 10856] event PAUSE
+09:53:47.093 [tid 10856] Pause hr=0x00000000
+10:17:21.872 [tid 10392] Shutdown
+10:18:14.798 [tid 19448] Shutdown
+10:18:25.254 [tid 16620] Shutdown
+10:19:24.749 [tid 7344] Shutdown
+10:22:10.831 [tid 21856] Shutdown
+21:35:47.583 [tid 19876] PlayTrack 34: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Animals-2.mp3
+21:35:47.647 [tid 19876] Media Engine ready (audio-only), engineEx=yes
+21:35:47.653 [tid 19876]   MFCreateFile hr=0x00000000
+21:35:47.695 [tid 19876]   SetSourceFromByteStream hr=0x00000000
+21:35:47.703 [tid 19876]   Load hr=0x00000000
+21:35:48.775 [tid 22252] event LOADEDMETADATA duration=231.24
+21:35:48.778 [tid 22252] event CANPLAY wantPlay=1
+21:35:48.779 [tid 22252]   Play from CANPLAY hr=0x00000000
+21:35:48.782 [tid 19876]   Play hr=0x00000000 readyState=4 duration=231.24 waited=1078ms
+21:35:48.824 [tid 22572] event PLAYING
+21:35:49.336 [tid 19876] event PAUSE
+21:35:49.338 [tid 19876] Pause hr=0x00000000
+21:36:06.783 [tid 19876] Resume hr=0x00000000
+21:36:06.790 [tid 2104] event PLAYING
+21:36:24.437 [tid 19876] PlayTrack 50: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\I Write Sins Not Tragedies - Panic At The Disco-2.mp3
+21:36:24.439 [tid 19876] event PAUSE
+21:36:24.508 [tid 19876]   MFCreateFile hr=0x00000000
+21:36:24.510 [tid 19876]   SetSourceFromByteStream hr=0x00000000
+21:36:24.512 [tid 19876]   Load hr=0x00000000
+21:36:24.767 [tid 21180] event LOADEDMETADATA duration=187.72
+21:36:24.768 [tid 21180] event CANPLAY wantPlay=1
+21:36:24.769 [tid 21180]   Play from CANPLAY hr=0x00000000
+21:36:24.776 [tid 19876]   Play hr=0x00000000 readyState=4 duration=187.72 waited=266ms
+21:36:24.815 [tid 10576] event PLAYING
+21:36:26.696 [tid 19876] PlayTrack 54: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Nine In the Afternoon-2.mp3
+21:36:26.698 [tid 19876] event PAUSE
+21:36:26.756 [tid 19876]   MFCreateFile hr=0x00000000
+21:36:26.758 [tid 19876]   SetSourceFromByteStream hr=0x00000000
+21:36:26.759 [tid 19876]   Load hr=0x00000000
+21:36:26.936 [tid 19900] event LOADEDMETADATA duration=191.54
+21:36:26.937 [tid 19900] event CANPLAY wantPlay=1
+21:36:26.937 [tid 19900]   Play from CANPLAY hr=0x00000000
+21:36:26.947 [tid 19876]   Play hr=0x00000000 readyState=4 duration=191.54 waited=188ms
+21:36:26.957 [tid 20808] event PLAYING
+21:37:00.168 [tid 19876] event PAUSE
+21:37:00.169 [tid 19876] Pause hr=0x00000000
+21:37:05.690 [tid 19876] ClearLayer
+18:02:18.070 [tid 19368] Shutdown
+18:09:00.292 [tid 19244] Shutdown
+18:09:52.074 [tid 11232] Shutdown
+19:03:14.832 [tid 19464] Shutdown
+19:03:40.361 [tid 15444] Shutdown
+19:03:54.792 [tid 17916] Shutdown
+01:40:37.705 [tid 3664] Shutdown
+09:37:18.288 [tid 592] Shutdown
+09:37:53.805 [tid 21968] Shutdown
+10:23:49.166 [tid 14344] PlayTrack 35: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Beauty and a Beat (feat. Nicki Minaj)-2.mp3
+10:23:49.183 [tid 14344] Media Engine ready (audio-only), engineEx=yes
+10:23:49.195 [tid 14344]   MFCreateFile hr=0x00000000
+10:23:49.196 [tid 14344]   SetSourceFromByteStream hr=0x00000000
+10:23:49.196 [tid 14344]   Load hr=0x00000000
+10:23:49.273 [tid 21088] event LOADEDMETADATA duration=228.36
+10:23:49.274 [tid 21088] event CANPLAY wantPlay=1
+10:23:49.274 [tid 21088]   Play from CANPLAY hr=0x00000000
+10:23:49.281 [tid 14344]   Play hr=0x00000000 readyState=4 duration=228.36 waited=78ms
+10:23:49.286 [tid 22772] event PLAYING
+10:24:22.928 [tid 14344] PlayTrack 42: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Death of a Bachelor-2.mp3
+10:24:22.928 [tid 14344] event PAUSE
+10:24:22.948 [tid 14344]   MFCreateFile hr=0x00000000
+10:24:22.948 [tid 14344]   SetSourceFromByteStream hr=0x00000000
+10:24:22.948 [tid 14344]   Load hr=0x00000000
+10:24:22.992 [tid 23180] event LOADEDMETADATA duration=203.04
+10:24:22.992 [tid 23180] event CANPLAY wantPlay=1
+10:24:22.992 [tid 23180]   Play from CANPLAY hr=0x00000000
+10:24:23.004 [tid 23180] event PLAYING
+10:24:23.004 [tid 14344]   Play hr=0x00000000 readyState=4 duration=203.04 waited=47ms
+10:24:26.040 [tid 14344] PlayTrack 56: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Ride-2.mp3
+10:24:26.040 [tid 14344] event PAUSE
+10:24:26.055 [tid 14344]   MFCreateFile hr=0x00000000
+10:24:26.055 [tid 14344]   SetSourceFromByteStream hr=0x00000000
+10:24:26.056 [tid 14344]   Load hr=0x00000000
+10:24:26.093 [tid 20560] event LOADEDMETADATA duration=214.06
+10:24:26.093 [tid 20560] event CANPLAY wantPlay=1
+10:24:26.094 [tid 20560]   Play from CANPLAY hr=0x00000000
+10:24:26.102 [tid 23180] event PLAYING
+10:24:26.106 [tid 14344]   Play hr=0x00000000 readyState=4 duration=214.06 waited=46ms
+10:28:00.335 [tid 22500] event ENDED
+10:28:03.376 [tid 14344] PlayTrack 55: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Payphone (feat. Wiz Khalifa)-2.mp3
+10:28:03.377 [tid 14344] event PAUSE
+10:28:03.390 [tid 14344]   MFCreateFile hr=0x00000000
+10:28:03.390 [tid 14344]   SetSourceFromByteStream hr=0x00000000
+10:28:03.391 [tid 14344]   Load hr=0x00000000
+10:28:03.448 [tid 24072] event LOADEDMETADATA duration=231.55
+10:28:03.449 [tid 24072] event CANPLAY wantPlay=1
+10:28:03.449 [tid 24072]   Play from CANPLAY hr=0x00000000
+10:28:03.455 [tid 14344]   Play hr=0x00000000 readyState=4 duration=231.55 waited=62ms
+10:28:03.460 [tid 24072] event PLAYING
+10:31:55.178 [tid 12312] event ENDED
+10:31:55.909 [tid 14344] PlayTrack 53: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Maps-2.mp3
+10:31:55.909 [tid 14344] event PAUSE
+10:31:55.926 [tid 14344]   MFCreateFile hr=0x00000000
+10:31:55.927 [tid 14344]   SetSourceFromByteStream hr=0x00000000
+10:31:55.927 [tid 14344]   Load hr=0x00000000
+10:31:55.973 [tid 15192] event LOADEDMETADATA duration=190.27
+10:31:55.973 [tid 15192] event CANPLAY wantPlay=1
+10:31:55.974 [tid 15192]   Play from CANPLAY hr=0x00000000
+10:31:55.982 [tid 15192] event PLAYING
+10:31:55.985 [tid 14344]   Play hr=0x00000000 readyState=4 duration=190.27 waited=46ms
+10:35:06.418 [tid 14372] event ENDED
+10:35:21.847 [tid 14344] PlayTrack 57: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Still Into You-2.mp3
+10:35:21.848 [tid 14344] event PAUSE
+10:35:21.861 [tid 14344]   MFCreateFile hr=0x00000000
+10:35:21.861 [tid 14344]   SetSourceFromByteStream hr=0x00000000
+10:35:21.862 [tid 14344]   Load hr=0x00000000
+10:35:21.913 [tid 22440] event LOADEDMETADATA duration=216.55
+10:35:21.913 [tid 22440] event CANPLAY wantPlay=1
+10:35:21.914 [tid 22440]   Play from CANPLAY hr=0x00000000
+10:35:21.924 [tid 14344]   Play hr=0x00000000 readyState=4 duration=216.55 waited=63ms
+10:35:21.927 [tid 19836] event PLAYING
+10:38:58.647 [tid 5340] event ENDED
+10:39:23.288 [tid 14344] ClearLayer
+10:39:23.288 [tid 14344] event PAUSE
+12:01:53.679 [tid 13276] Shutdown
+12:12:34.816 [tid 21780] PlayTrack 56: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Ride-2.mp3
+12:12:34.837 [tid 21780] Media Engine ready (audio-only), engineEx=yes
+12:12:34.838 [tid 21780]   MFCreateFile hr=0x00000000
+12:12:34.851 [tid 21780]   SetSourceFromByteStream hr=0x00000000
+12:12:34.852 [tid 21780]   Load hr=0x00000000
+12:12:35.076 [tid 1700] event LOADEDMETADATA duration=214.06
+12:12:35.076 [tid 1700] event CANPLAY wantPlay=1
+12:12:35.077 [tid 1700]   Play from CANPLAY hr=0x00000000
+12:12:35.088 [tid 21780]   Play hr=0x00000000 readyState=4 duration=214.06 waited=250ms
+12:12:35.094 [tid 23352] event PLAYING
+12:13:28.161 [tid 21780] event PAUSE
+12:13:28.163 [tid 21780] Pause hr=0x00000000
+12:44:34.926 [tid 21780] ClearLayer
+12:45:46.482 [tid 21780] Shutdown
+08:21:04.697 [tid 17764] Shutdown
+19:16:45.504 [tid 19864] Shutdown
+19:17:36.641 [tid 2500] PlayTrack 53: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Maps-2.mp3
+19:17:36.658 [tid 2500] Media Engine ready (audio-only), engineEx=yes
+19:17:36.670 [tid 2500]   MFCreateFile hr=0x00000000
+19:17:36.671 [tid 2500]   SetSourceFromByteStream hr=0x00000000
+19:17:36.671 [tid 2500]   Load hr=0x00000000
+19:17:36.766 [tid 5064] event LOADEDMETADATA duration=190.27
+19:17:36.767 [tid 5064] event CANPLAY wantPlay=1
+19:17:36.767 [tid 5064]   Play from CANPLAY hr=0x00000000
+19:17:36.769 [tid 2500]   Play hr=0x00000000 readyState=4 duration=190.27 waited=94ms
+19:17:36.778 [tid 5144] event PLAYING
+19:19:07.804 [tid 2500] ClearLayer
+19:19:07.804 [tid 2500] event PAUSE
+19:27:31.477 [tid 23268] PlayTrack 53: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Maps-2.mp3
+19:27:31.492 [tid 23268] Media Engine ready (audio-only), engineEx=yes
+19:27:31.493 [tid 23268]   MFCreateFile hr=0x00000000
+19:27:31.502 [tid 23268]   SetSourceFromByteStream hr=0x00000000
+19:27:31.503 [tid 23268]   Load hr=0x00000000
+19:27:31.586 [tid 10144] event LOADEDMETADATA duration=190.27
+19:27:31.587 [tid 10144] event CANPLAY wantPlay=1
+19:27:31.587 [tid 10144]   Play from CANPLAY hr=0x00000000
+19:27:31.588 [tid 23268]   Play hr=0x00000000 readyState=4 duration=190.27 waited=94ms
+19:27:31.598 [tid 20200] event PLAYING
+19:30:41.884 [tid 22784] event ENDED
+19:51:57.294 [tid 23268] PlayTrack 41: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Dear Maria, Count Me In-2.mp3
+19:51:57.295 [tid 23268] event PAUSE
+19:51:57.306 [tid 23268]   MFCreateFile hr=0x00000000
+19:51:57.306 [tid 23268]   SetSourceFromByteStream hr=0x00000000
+19:51:57.307 [tid 23268]   Load hr=0x00000000
+19:51:57.339 [tid 18864] event LOADEDMETADATA duration=182.86
+19:51:57.339 [tid 18864] event CANPLAY wantPlay=1
+19:51:57.339 [tid 18864]   Play from CANPLAY hr=0x00000000
+19:51:57.341 [tid 23268]   Play hr=0x00000000 readyState=4 duration=182.86 waited=32ms
+19:51:57.351 [tid 18864] event PLAYING
+19:55:00.223 [tid 4060] event ENDED
+05:38:43.028 [tid 1616] Shutdown
+14:20:08.588 [tid 22680] Shutdown
+20:45:23.960 [tid 17284] Shutdown
+20:49:39.771 [tid 5804] Shutdown
+20:53:40.249 [tid 11564] Shutdown
+20:54:43.889 [tid 17760] Shutdown
+21:04:00.711 [tid 18592] Shutdown
+21:06:16.925 [tid 10888] Shutdown
+16:18:56.485 [tid 23536] Shutdown
+16:26:08.276 [tid 14416] Shutdown
+16:51:11.950 [tid 16260] Shutdown
+16:55:34.917 [tid 14408] Shutdown
+16:56:00.116 [tid 17724] Shutdown
+19:26:21.120 [tid 22092] Shutdown
+19:48:41.107 [tid 15680] Shutdown
+20:40:13.379 [tid 19584] Shutdown
+20:12:45.828 [tid 664] Shutdown
+20:13:47.537 [tid 6256] Shutdown
+08:38:44.212 [tid 19012] Shutdown
+08:40:42.667 [tid 16104] Shutdown
+09:14:00.162 [tid 10204] ClearLayer
+09:14:43.279 [tid 10204] Shutdown
+10:42:59.353 [tid 15488] Shutdown
+10:55:10.809 [tid 7696] Shutdown
+11:55:37.901 [tid 3640] Shutdown
+20:46:48.018 [tid 18380] Shutdown
+20:54:29.804 [tid 13384] Shutdown
+15:41:17.023 [tid 17380] ClearLayer
+07:15:03.574 [tid 2936] Shutdown
+07:15:27.758 [tid 17048] Shutdown
+08:30:48.593 [tid 18852] ClearLayer
+05:36:41.416 [tid 14680] Shutdown
+10:04:47.941 [tid 8596] Shutdown
+10:05:29.211 [tid 12468] Shutdown
+12:12:54.076 [tid 10936] ClearLayer
+12:16:48.118 [tid 10936] Shutdown
+10:52:34.115 [tid 21580] Shutdown
+14:27:45.543 [tid 22532] Shutdown
+10:17:38.841 [tid 22976] Shutdown
+11:35:04.248 [tid 17728] Shutdown
+20:18:19.244 [tid 18256] Shutdown
+07:22:35.094 [tid 7952] Shutdown
+09:42:43.737 [tid 20416] Shutdown
+08:15:08.227 [tid 1848] Shutdown
+10:13:38.229 [tid 27060] Shutdown
+10:15:17.561 [tid 17712] Shutdown
+10:15:57.836 [tid 26412] Shutdown
+10:29:59.155 [tid 25800] Shutdown
+10:38:18.020 [tid 14052] Shutdown
+10:38:33.999 [tid 23888] Shutdown
+10:42:43.652 [tid 18776] Shutdown
+10:48:52.428 [tid 5552] PlayTrack 56: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Ride-2.mp3
+10:48:52.444 [tid 5552] Media Engine ready (audio-only), engineEx=yes
+10:48:52.455 [tid 5552]   MFCreateFile hr=0x00000000
+10:48:52.457 [tid 5552]   SetSourceFromByteStream hr=0x00000000
+10:48:52.457 [tid 5552]   Load hr=0x00000000
+10:48:52.530 [tid 1088] event LOADEDMETADATA duration=214.06
+10:48:52.531 [tid 1088] event CANPLAY wantPlay=1
+10:48:52.531 [tid 1088]   Play from CANPLAY hr=0x00000000
+10:48:52.541 [tid 5552]   Play hr=0x00000000 readyState=4 duration=214.06 waited=78ms
+10:48:52.541 [tid 1088] event PLAYING
+10:52:26.766 [tid 20284] event ENDED
+10:52:50.435 [tid 5552] PlayTrack 42: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Death of a Bachelor-2.mp3
+10:52:50.436 [tid 5552] event PAUSE
+10:52:50.446 [tid 5552]   MFCreateFile hr=0x00000000
+10:52:50.446 [tid 5552]   SetSourceFromByteStream hr=0x00000000
+10:52:50.447 [tid 5552]   Load hr=0x00000000
+10:52:50.479 [tid 20228] event LOADEDMETADATA duration=203.04
+10:52:50.479 [tid 20228] event CANPLAY wantPlay=1
+10:52:50.479 [tid 20228]   Play from CANPLAY hr=0x00000000
+10:52:50.485 [tid 5552]   Play hr=0x00000000 readyState=4 duration=203.04 waited=47ms
+10:52:50.486 [tid 8064] event PLAYING
+10:56:13.555 [tid 26640] event ENDED
+12:23:36.363 [tid 5004] Shutdown
+13:55:33.648 [tid 17476] Shutdown
+14:00:51.229 [tid 9036] Shutdown
+10:54:47.678 [tid 9912] Shutdown
+10:54:55.896 [tid 3676] Shutdown
+09:44:09.853 [tid 22396] Shutdown
+09:45:23.642 [tid 23180] PlayTrack 53: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Maps-2.mp3
+09:45:23.665 [tid 23180] Media Engine ready (audio-only), engineEx=yes
+09:45:23.678 [tid 23180]   MFCreateFile hr=0x00000000
+09:45:23.678 [tid 23180]   SetSourceFromByteStream hr=0x00000000
+09:45:23.680 [tid 23180]   Load hr=0x00000000
+09:45:23.770 [tid 18984] event LOADEDMETADATA duration=190.27
+09:45:23.770 [tid 18984] event CANPLAY wantPlay=1
+09:45:23.771 [tid 18984]   Play from CANPLAY hr=0x00000000
+09:45:23.771 [tid 23180]   Play hr=0x00000000 readyState=4 duration=190.27 waited=94ms
+09:45:23.785 [tid 21004] event PLAYING
+09:45:38.008 [tid 22776] event ENDED
+09:45:38.098 [tid 23180] PlayTrack 54: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Nine In the Afternoon-2.mp3
+09:45:38.098 [tid 23180] event PAUSE
+09:45:38.110 [tid 23180]   MFCreateFile hr=0x00000000
+09:45:38.110 [tid 23180]   SetSourceFromByteStream hr=0x00000000
+09:45:38.111 [tid 23180]   Load hr=0x00000000
+09:45:38.146 [tid 13604] event LOADEDMETADATA duration=191.54
+09:45:38.147 [tid 13604] event CANPLAY wantPlay=1
+09:45:38.147 [tid 13604]   Play from CANPLAY hr=0x00000000
+09:45:38.154 [tid 22732] event PLAYING
+09:45:38.159 [tid 23180]   Play hr=0x00000000 readyState=4 duration=191.54 waited=47ms
+09:46:00.240 [tid 23180] event PAUSE
+09:46:00.241 [tid 23180] Pause hr=0x00000000
+10:15:43.399 [tid 16300] Shutdown
+10:47:58.167 [tid 23000] Shutdown
+11:50:43.375 [tid 10392] Shutdown
+12:50:31.524 [tid 23044] Shutdown
+05:55:54.613 [tid 23528] Shutdown
+11:33:57.748 [tid 20132] Shutdown
+10:58:01.958 [tid 15468] Shutdown
+09:25:22.631 [tid 22748] PlayTrack 60: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Thnks Fr Th Mmrs-2.mp3
+09:25:22.648 [tid 22748] Media Engine ready (audio-only), engineEx=yes
+09:25:22.662 [tid 22748]   MFCreateFile hr=0x00000000
+09:25:22.663 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+09:25:22.663 [tid 22748]   Load hr=0x00000000
+09:25:22.736 [tid 25632] event LOADEDMETADATA duration=203.71
+09:25:22.736 [tid 25632] event CANPLAY wantPlay=1
+09:25:22.737 [tid 25632]   Play from CANPLAY hr=0x00000000
+09:25:22.737 [tid 22748]   Play hr=0x00000000 readyState=4 duration=203.71 waited=62ms
+09:25:22.750 [tid 26756] event PLAYING
+09:28:46.487 [tid 8264] event ENDED
+09:28:46.560 [tid 22748] PlayTrack 50: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\I Write Sins Not Tragedies - Panic At The Disco-2.mp3
+09:28:46.560 [tid 22748] event PAUSE
+09:28:46.578 [tid 22748]   MFCreateFile hr=0x00000000
+09:28:46.578 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+09:28:46.579 [tid 22748]   Load hr=0x00000000
+09:28:46.653 [tid 9772] event LOADEDMETADATA duration=187.72
+09:28:46.654 [tid 9772] event CANPLAY wantPlay=1
+09:28:46.654 [tid 9772]   Play from CANPLAY hr=0x00000000
+09:28:46.655 [tid 22748]   Play hr=0x00000000 readyState=4 duration=187.72 waited=78ms
+09:28:46.678 [tid 8264] event PLAYING
+09:29:11.489 [tid 22748] event PAUSE
+09:29:11.490 [tid 22748] Pause hr=0x00000000
+09:57:41.056 [tid 22748] Resume hr=0x00000000
+09:57:41.073 [tid 25960] event PLAYING
+10:00:24.132 [tid 4044] event ENDED
+10:00:24.210 [tid 22748] PlayTrack 38: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Bring Me to Life-2.mp3
+10:00:24.211 [tid 22748] event PAUSE
+10:00:24.226 [tid 22748]   MFCreateFile hr=0x00000000
+10:00:24.227 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:00:24.227 [tid 22748]   Load hr=0x00000000
+10:00:24.269 [tid 3984] event LOADEDMETADATA duration=235.61
+10:00:24.270 [tid 3984] event CANPLAY wantPlay=1
+10:00:24.270 [tid 3984]   Play from CANPLAY hr=0x00000000
+10:00:24.273 [tid 22748]   Play hr=0x00000000 readyState=4 duration=235.61 waited=47ms
+10:00:24.281 [tid 3984] event PLAYING
+10:00:43.864 [tid 22748] PlayTrack 45: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Dynamite-2.mp3
+10:00:43.865 [tid 22748] event PAUSE
+10:00:43.876 [tid 22748]   MFCreateFile hr=0x00000000
+10:00:43.877 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:00:43.878 [tid 22748]   Load hr=0x00000000
+10:00:43.909 [tid 3984] event LOADEDMETADATA duration=203.98
+10:00:43.909 [tid 3984] event CANPLAY wantPlay=1
+10:00:43.910 [tid 3984]   Play from CANPLAY hr=0x00000000
+10:00:43.919 [tid 22748]   Play hr=0x00000000 readyState=4 duration=203.98 waited=47ms
+10:00:43.921 [tid 3984] event PLAYING
+10:04:07.911 [tid 9736] event ENDED
+10:04:07.940 [tid 22748] PlayTrack 44: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Don't Threaten Me with a Good Time-2.mp3
+10:04:07.941 [tid 22748] event PAUSE
+10:04:07.969 [tid 22748]   MFCreateFile hr=0x00000000
+10:04:07.971 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:04:07.971 [tid 22748]   Load hr=0x00000000
+10:04:08.011 [tid 27188] event LOADEDMETADATA duration=213.24
+10:04:08.011 [tid 27188] event CANPLAY wantPlay=1
+10:04:08.012 [tid 27188]   Play from CANPLAY hr=0x00000000
+10:04:08.015 [tid 22748]   Play hr=0x00000000 readyState=4 duration=213.24 waited=47ms
+10:04:08.022 [tid 27188] event PLAYING
+10:07:41.267 [tid 10848] event ENDED
+10:07:41.295 [tid 22748] PlayTrack 37: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Blood __ Water-2.mp3
+10:07:41.295 [tid 22748] event PAUSE
+10:07:41.307 [tid 22748]   MFCreateFile hr=0x00000000
+10:07:41.307 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:07:41.309 [tid 22748]   Load hr=0x00000000
+10:07:41.349 [tid 10848] event LOADEDMETADATA duration=215.06
+10:07:41.350 [tid 10848] event CANPLAY wantPlay=1
+10:07:41.350 [tid 10848]   Play from CANPLAY hr=0x00000000
+10:07:41.361 [tid 22748]   Play hr=0x00000000 readyState=4 duration=215.06 waited=46ms
+10:07:41.387 [tid 21560] event PLAYING
+10:07:48.092 [tid 22748] PlayTrack 52: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Immortals-2.mp3
+10:07:48.093 [tid 22748] event PAUSE
+10:07:48.107 [tid 22748]   MFCreateFile hr=0x00000000
+10:07:48.108 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:07:48.108 [tid 22748]   Load hr=0x00000000
+10:07:48.144 [tid 9988] event LOADEDMETADATA duration=189.72
+10:07:48.145 [tid 9988] event CANPLAY wantPlay=1
+10:07:48.146 [tid 9988]   Play from CANPLAY hr=0x00000000
+10:07:48.153 [tid 6256] event PLAYING
+10:07:48.154 [tid 22748]   Play hr=0x00000000 readyState=4 duration=189.72 waited=47ms
+10:07:49.337 [tid 22748] PlayTrack 53: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Maps-2.mp3
+10:07:49.339 [tid 22748] event PAUSE
+10:07:49.349 [tid 22748]   MFCreateFile hr=0x00000000
+10:07:49.350 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:07:49.350 [tid 22748]   Load hr=0x00000000
+10:07:49.385 [tid 8736] event LOADEDMETADATA duration=190.27
+10:07:49.385 [tid 8736] event CANPLAY wantPlay=1
+10:07:49.386 [tid 8736]   Play from CANPLAY hr=0x00000000
+10:07:49.386 [tid 22748]   Play hr=0x00000000 readyState=4 duration=190.27 waited=32ms
+10:07:49.395 [tid 6256] event PLAYING
+10:10:59.675 [tid 11796] event ENDED
+10:10:59.751 [tid 22748] PlayTrack 43: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Decode-2.mp3
+10:10:59.753 [tid 22748] event PAUSE
+10:10:59.763 [tid 22748]   MFCreateFile hr=0x00000000
+10:10:59.764 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:10:59.765 [tid 22748]   Load hr=0x00000000
+10:10:59.805 [tid 25404] event LOADEDMETADATA duration=262.73
+10:10:59.806 [tid 25404] event CANPLAY wantPlay=1
+10:10:59.806 [tid 25404]   Play from CANPLAY hr=0x00000000
+10:10:59.813 [tid 22748]   Play hr=0x00000000 readyState=4 duration=262.73 waited=47ms
+10:10:59.817 [tid 11796] event PLAYING
+10:11:19.934 [tid 22748] PlayTrack 40: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\Dance, Dance-2.mp3
+10:11:19.935 [tid 22748] event PAUSE
+10:11:19.947 [tid 22748]   MFCreateFile hr=0x00000000
+10:11:19.948 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:11:19.948 [tid 22748]   Load hr=0x00000000
+10:11:19.989 [tid 13920] event LOADEDMETADATA duration=181.10
+10:11:19.990 [tid 13920] event CANPLAY wantPlay=1
+10:11:19.990 [tid 13920]   Play from CANPLAY hr=0x00000000
+10:11:20.002 [tid 13920] event PLAYING
+10:11:20.003 [tid 22748]   Play hr=0x00000000 readyState=4 duration=181.10 waited=47ms
+10:14:21.119 [tid 25532] event ENDED
+10:14:21.222 [tid 22748] PlayTrack 58: C:\Users\theel\AppData\Roaming\PresentationSoftwareDev\media\audio\The One That Got Away-2.mp3
+10:14:21.223 [tid 22748] event PAUSE
+10:14:21.235 [tid 22748]   MFCreateFile hr=0x00000000
+10:14:21.236 [tid 22748]   SetSourceFromByteStream hr=0x00000000
+10:14:21.236 [tid 22748]   Load hr=0x00000000
+10:14:21.279 [tid 25812] event LOADEDMETADATA duration=227.40
+10:14:21.280 [tid 25812] event CANPLAY wantPlay=1
+10:14:21.280 [tid 25812]   Play from CANPLAY hr=0x00000000
+10:14:21.287 [tid 22748]   Play hr=0x00000000 readyState=4 duration=227.40 waited=63ms
+10:14:21.290 [tid 25812] event PLAYING
+10:14:22.684 [tid 22748] ClearLayer
+10:14:22.684 [tid 22748] event PAUSE
+10:42:24.814 [tid 7688] PlayTrack 20: file missing (C:\Users\theel\Documents\Presentation Software Dev - Copy\_screenshot_data\C:\Users\theel\Documents\Presentation Software Dev - Copy\_screenshot_data\media\audio\silence.wav)
+10:55:28.757 [tid 7688] Shutdown
